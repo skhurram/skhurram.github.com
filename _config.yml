@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Syed Khurram
+title: #Syed Khurram
 locale: en_US
-description: Writings
+description: #Writings
 logo: #site-logo.png
 search: true
 url:

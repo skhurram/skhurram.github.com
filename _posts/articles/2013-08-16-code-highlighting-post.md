@@ -4,10 +4,10 @@ title: Syntax Highlighting Post
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 categories: articles
 tags: [sample-post, code, highlighting]
-image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+#image:
+#  feature: so-simple-sample-image-5.jpg
+#  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
