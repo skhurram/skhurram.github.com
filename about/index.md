@@ -9,6 +9,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Software developer. Currently focused on Clojure/ClojureScript. 
+Software developer. Currently favorite language: Clojure/ClojureScript. 
 
-
+Java-focused [cv]({{ site.url }}/about/Syed_Khurram.html) .
